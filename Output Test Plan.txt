@@ -1,0 +1,218 @@
+Please enter the file name to load students' information: xyz.txt
+xyz.txt does not exist - Bye
+Please enter the file name to load students' information: students.txt
+Students information has been loaded from the file
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> M
+Invalid Input
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> l
+=============================================================
+   Student Name         Student ID              GPA
+=============================================================
+     John Smith             111                 99.0
+   Maria Jordon             222                 95.0
+  Hamdy Ibrahim             333                100.0
+            zzz             999                100.0
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> F
+Enter student id: 333
+=============================================================
+   Student Name         Student ID              GPA
+=============================================================
+  Hamdy Ibrahim             333                100.0
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> f
+Enter student id: 555
+No student with ID 555
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> a
+Adding a student .....
+Enter student id: 333
+A student with ID 333 already exists
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> A
+Adding a student .....
+Enter student id: 444
+Enter student name: Sarah Li
+Enter student GPA: 87
+The student with id 444 is added.
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> f
+Enter student id: 444
+=============================================================
+   Student Name         Student ID              GPA
+=============================================================
+       Sarah Li             444                 87.0
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> E
+Enter student id: 444
+Enter student name: Sarah White
+Enter student ID: 555
+Enter GPA: 90
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> f
+Enter student id: 555
+=============================================================
+   Student Name         Student ID              GPA
+=============================================================
+    Sarah White             555                 90.0
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> D
+Enter student id: 444
+No student with ID 444
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> d
+Enter student id: 555
+Student with ID 555 is deleted
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> f
+Enter student id: 555
+No student with ID 555
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> G
+GPA Average is 98.5
+*************************************************************
+          *** Welcome to Students GPA Systems! ***
+*************************************************************
+Select from the following options
+L- List Students
+A - Add Student
+E- Edit Students
+D- Delete Student
+F- Find A Student
+G- GPA Average
+Q- Quit
+>>> Q
+Thanks and Good Bye!
+Please press enter to continue....
